@@ -1,0 +1,11 @@
+[settings]
+os_build=Linux
+arch_build=x86_64
+arch=armv8
+build_type=Release
+compiler=clang
+compiler.libcxx=
+compiler.libcxx=libc++
+compiler.version=8
+os=Android
+os.api_level=26
